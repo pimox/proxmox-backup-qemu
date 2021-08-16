@@ -1,5 +1,5 @@
 [source]
 [source.debian-packages]
-directory = "/usr/share/cargo/registry"
+directory = "/root/build/rust/usr/share/cargo/registry"
 [source.crates-io]
 replace-with = "debian-packages"
